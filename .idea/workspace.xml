@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1053f290-f0ad-4c8b-a054-a25e82a1cbff" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../my2/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../my2/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../my2/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../my2/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../my2/my2.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../my2/src/深入体验Java_Web开发内幕-核心基础.pdf" />
+      <change beforePath="$PROJECT_DIR$/../my2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../my2/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../my2/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -195,12 +190,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519554056463</updated>
-      <workItem from="1519554059485" duration="191000" />
+      <workItem from="1519554059485" duration="300000" />
     </task>
+    <task id="LOCAL-00001" summary="fgdgsdgf">
+      <created>1519554256644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519554256644</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191000" />
+    <option name="totallyTimeSpent" value="300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -238,6 +241,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fgdgsdgf" />
+    <option name="LAST_COMMIT_MESSAGE" value="fgdgsdgf" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
